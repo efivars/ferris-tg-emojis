@@ -7,6 +7,7 @@ You can use every single piece of source however you want
 
 ## Websites and apps used in process:
 - https://www.rustacean.net/ - Ferris sources
+- https://www.iloveimg.com/ - Amazing tool for image editing
 - https://borderize.com/ - Ez borders around your png
 - https://www.pixelcut.ai/background-remover - Ez background remove tool
 - https://ezgif.com/ - Gif manipulation tool
